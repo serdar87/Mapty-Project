@@ -14,3 +14,5 @@
 
 -Leaflet library Geolocation API
 
+-Browser API
+
