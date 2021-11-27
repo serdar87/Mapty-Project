@@ -12,7 +12,5 @@
 
 -Vanilla Js
 
--Npm Babel Parcel
-
--Model View Controller Architecture
+-Leaflet library Geolocation API
 
